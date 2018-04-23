@@ -7,6 +7,7 @@
 //
 
 #import "MMHomeViewController.h"
+#import "MMBaseViewController.h"
 
 @implementation MMHomeViewController
 

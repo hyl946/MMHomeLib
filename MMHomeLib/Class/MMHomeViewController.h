@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <MMBaseViewController.h>
+#import <MMBase.h>
 
 @interface MMHomeViewController : MMBaseViewController
 
