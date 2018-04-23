@@ -6,8 +6,7 @@
 //  Copyright © 2018年 Loren. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
-#include "MMBaseViewController.h"
+#import "MMBaseViewController.h"
 
 @interface MMHomeViewController : MMBaseViewController
 
